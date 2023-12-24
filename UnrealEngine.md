@@ -21,16 +21,16 @@
 [William Faucher](https://www.youtube.com/@WilliamFaucher/videos) Great tutorials for making movies using Unreal Engine.  Useful to game dev for lighting, cinematics, or filming trailers.
 
 **Unsorted**
-https://www.youtube.com/@thegamedevcave/videos
-https://www.youtube.com/@DanReynoldsAudio/videos
-https://www.youtube.com/@CobraCode/videos
-https://www.youtube.com/@TCMabe/videos
-https://www.youtube.com/@TheRoyalSkies/videos
-https://www.youtube.com/@GameDevAcademy/videos
-https://www.youtube.com/@CodeLikeMe/videos
-https://www.youtube.com/@Kekdot/videos
-https://www.youtube.com/@MattAspland/videos
-https://www.youtube.com/@UnrealSensei/videos
+https://www.youtube.com/@thegamedevcave/videos  
+https://www.youtube.com/@DanReynoldsAudio/videos  
+https://www.youtube.com/@CobraCode/videos  
+https://www.youtube.com/@TCMabe/videos  
+https://www.youtube.com/@TheRoyalSkies/videos  
+https://www.youtube.com/@GameDevAcademy/videos  
+https://www.youtube.com/@CodeLikeMe/videos  
+https://www.youtube.com/@Kekdot/videos  
+https://www.youtube.com/@MattAspland/videos  
+https://www.youtube.com/@UnrealSensei/videos  
 
 ## Tutorials
 
